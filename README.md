@@ -21,7 +21,7 @@ This repository contains a collection of algorithms and data structures for comp
 - [Lazy Segment Tree](https://github.com/NASU41/AtCoderLibraryForJava/tree/master/LazySegTree)
 - [Mod Int](https://github.com/NASU41/AtCoderLibraryForJava/tree/master/ModInt)
 - [Multiset](https://github.com/NASU41/AtCoderLibraryForJava/tree/master/Multiset)
-- [高速入出力](https://github.com/NASU41/AtCoderLibraryForJava/tree/master/ContestIO)
+- [Fast I/O](https://github.com/NASU41/AtCoderLibraryForJava/tree/master/ContestIO)
 
 ## プログラムを編集したい方へ
 
